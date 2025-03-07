@@ -12,5 +12,12 @@ Previously, I automated deployments using GitHub, Jenkins, Ansible, Docker, and 
 ## 💡 Challenge Faced & Solution
 - 🔐 **Terraform AWS Authentication Issue** – Faced difficulties in managing AWS access and secret keys securely while provisioning infrastructure. Resolved this by configuring **environment variables** and using **Jenkins’ credential management** for secure access.
 
-Shoutout to [Mentor’s Name] for the guidance! 🚀🔥
 
+
+![1741285774352](https://github.com/user-attachments/assets/35a7d08b-6cd7-4e99-a32f-b537e039bfe3)
+
+
+![Screenshot 2025-03-07 131404](https://github.com/user-attachments/assets/2e233fb4-436e-401f-965d-5a08942c9757)
+
+
+![Screenshot 2025-03-07 131723](https://github.com/user-attachments/assets/b7a8a2ed-0129-4480-83c6-9f38f022d4f6)
