@@ -8,10 +8,10 @@
   tasks:
 
     - name: Pull Docker image from Docker Hub
-      command: docker pull reva1707/webtrial
+      command: docker pull reva1707/app
 
     - name: Stop and remove existing container
-      command: docker rm -f webtrial
+      command: docker rm -f app
 
     - name: Run new container
-      command: docker run -d --name webtrial -p 8081:8080 reva1707/webtrial
+      command: docker run -d --name webtrial -p 8081:8080 reva1707/app
